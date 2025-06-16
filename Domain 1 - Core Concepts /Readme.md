@@ -5,7 +5,7 @@ The code mentioned in this document are used in the Certified Kubernetes Adminis
 This section covers the foundational building blocks of Kubernetes—essential for understanding how all components interact. Mastery of these topics is crucial for success in the CKA exam.
 
 
-| Sr No | Document Link |
+| Sr No | Document |
 | ------ | ------ |
 | 1 | [Installing Kubectl]
 | 2 | [Connecting kubectl to Kubernetes]
